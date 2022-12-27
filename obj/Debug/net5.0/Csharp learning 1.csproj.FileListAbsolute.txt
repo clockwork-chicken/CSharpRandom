@@ -1,0 +1,16 @@
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\bin\Debug\net5.0\Csharp learning 1.exe
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\bin\Debug\net5.0\Csharp learning 1.deps.json
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\bin\Debug\net5.0\Csharp learning 1.runtimeconfig.json
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\bin\Debug\net5.0\Csharp learning 1.runtimeconfig.dev.json
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\bin\Debug\net5.0\Csharp learning 1.dll
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\bin\Debug\net5.0\ref\Csharp learning 1.dll
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\bin\Debug\net5.0\Csharp learning 1.pdb
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\obj\Debug\net5.0\Csharp learning 1.csproj.AssemblyReference.cache
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\obj\Debug\net5.0\Csharp learning 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\obj\Debug\net5.0\Csharp learning 1.AssemblyInfoInputs.cache
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\obj\Debug\net5.0\Csharp learning 1.AssemblyInfo.cs
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\obj\Debug\net5.0\Csharp learning 1.csproj.CoreCompileInputs.cache
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\obj\Debug\net5.0\Csharp learning 1.dll
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\obj\Debug\net5.0\ref\Csharp learning 1.dll
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\obj\Debug\net5.0\Csharp learning 1.pdb
+C:\Users\aryan\source\repos\Csharp learning 1\Csharp learning 1\obj\Debug\net5.0\Csharp learning 1.genruntimeconfig.cache
